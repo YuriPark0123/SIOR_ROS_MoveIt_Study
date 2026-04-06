@@ -1,6 +1,9 @@
 # 환경 설치 하는 법
 
 * Windows 환경의 경우 docker desktop이 미리 세팅되어있어야 함
+    - [참고 링크](https://loui3.tistory.com/278)
+
+<br/>
 
 * VcXsrv 설치 및 실행 방법
     - VcXsrv 다운로드 후 설치([다운로드 링크](https://sourceforge.net/projects/vcxsrv/))
