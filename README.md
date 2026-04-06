@@ -2,6 +2,14 @@
 
 * Windows 환경의 경우 docker desktop이 미리 세팅되어있어야 함
 
+* VcXsrv 설치 및 실행 방법
+    - VcXsrv 다운로드 후 설치([다운로드 링크](https://sourceforge.net/projects/vcxsrv/))
+    - XLaunch 실행 시 아래 설정:
+        - Multiple windows
+        - Display number: 0
+        - Start no client
+        - Disable access control 체크
+
 <br/>
 
 터미널에 다음 커맨드를 입력
