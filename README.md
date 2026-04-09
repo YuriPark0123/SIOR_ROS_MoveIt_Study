@@ -21,6 +21,8 @@
 git clone https://github.com/YuriPark0123/SIOR_ROS_MoveIt_Study.git
 cd SIOR_ROS_MoveIt_Study
 docker compose -f docker-compose.yml up --build -d
+docker exec -it ros2_moveit2 bash
+ros2 launch moveit_resources_panda_moveit_config demo.launch.py
 ```
 
 화면에 rviz 화면이 떠야 정상
