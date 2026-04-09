@@ -5,6 +5,10 @@ RUN apt-get update && apt-get install -y \
     ros-humble-moveit \
     ros-humble-moveit-visual-tools \
     ros-humble-rviz2 \
+    ros-humble-moveit-resources-panda-moveit-config \
+    ros-humble-moveit-resources-panda-description \
+    ros-humble-ros2-controllers \
+    ros-humble-ros2-control \
     mesa-utils \
     libgl1-mesa-dri \
     libegl1-mesa \
