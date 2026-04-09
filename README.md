@@ -20,7 +20,7 @@
 ```
 git clone https://github.com/YuriPark0123/SIOR_ROS_MoveIt_Study.git
 cd SIOR_ROS_MoveIt_Study
-docker compose up --build
+docker compose -f docker-compose.yml up --build -d
 ```
 
 화면에 rviz 화면이 떠야 정상
